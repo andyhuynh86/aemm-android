@@ -20,6 +20,10 @@
 -->
 ## Release Notes for AEMM Android ##
 
+### 6.21 (Mar 13, 2017)
+#### Features
+* Includes AEM Mobile .aar version 2017.3
+
 ### 6.0.8 (Feb 16, 2017)
 #### Features
 * Includes AEM Mobile .aar version 2017.2
